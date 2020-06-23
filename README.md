@@ -1,0 +1,1 @@
+sisteminha de que indica o valor em em reais do dolar
